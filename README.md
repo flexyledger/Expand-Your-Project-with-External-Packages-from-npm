@@ -1,1 +1,1 @@
-# Expand-Your-Project-with-External-Packages-from-npm
+# Backend Challenges boilerplate - package.json
